@@ -1,3 +1,5 @@
-Created a Simple Django Project where user will download a sample csv file. It will have field like schoolName,name,age,email,father_name,mother_name,standard,etc.
-User can add many rows in that csv sheet and that data will get added to the dashboard and it will be shown in frontend.
-The backend api is using pagination through slicing in python and user can filter records on basis of name,email,schoolName,etc.
+• Developed a full-stack web application using Python and Django as the backend and React as the frontend <br/>
+• Users download/upload CSV files with school-related data <br/>
+• Display paginated data and apply real-time filters <br/>
+• Navigate data efficiently based on name, email, school, etc <br/>
+• Implemented measures to ensure the safety of uploaded information <br/>
